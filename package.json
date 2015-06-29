@@ -8,7 +8,7 @@
         "codebox": ">=1.0.0-alpha"
     },
     "packageDependencies": {
-        "tabs": "CodeboxIDE/package-tabs"
+        "tabs": "code-box/package-tabs"
     },
     "dependencies": {
         "cfind": "0.3.0",
